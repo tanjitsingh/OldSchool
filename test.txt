@@ -1,0 +1,10 @@
+git add text.txt
+git status
+git close
+end
+:wq
+wq
+vim
+:w
+
+
